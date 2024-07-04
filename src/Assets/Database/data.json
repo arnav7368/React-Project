@@ -1,0 +1,460 @@
+{
+  "user": [
+    {
+      "id": "7ca1",
+      "name": "Arnav Roy",
+      "username": "arnav",
+      "email": "arnavroy688@gmail.com",
+      "phone": "7368055121",
+      "password": "Pari7368",
+      "role": "Admin",
+      "address": "Akshardham Ganesh Nagar New-Delhi",
+      "city": "New-Delhi",
+      "state": "Delhi",
+      "pin": "110092",
+      "pic": "profile.jpg"
+    },
+    {
+      "id": "ec7a",
+      "name": "Rohit Kumar",
+      "username": "rohit",
+      "email": "arnavr285@gmail.com",
+      "phone": "7368055121",
+      "password": "Pari7368",
+      "role": "Buyer",
+      "address": "Akshardham Ganesh Nagar New-Delhi",
+      "city": "New-Delhi",
+      "state": "Delhi",
+      "pin": "110092",
+      "pic": "profile.jpg"
+    }
+  ],
+  "maincategory": [
+    {
+      "id": "a2e7",
+      "name": "Male"
+    },
+    {
+      "id": "48c9",
+      "name": "Female"
+    },
+    {
+      "id": "3f8b",
+      "name": "Kids"
+    }
+  ],
+  "subcategory": [
+    {
+      "id": "5467",
+      "name": "Jeans"
+    },
+    {
+      "id": "318b",
+      "name": "T-Shirt"
+    },
+    {
+      "id": "c78a",
+      "name": "Shirt"
+    },
+    {
+      "id": "41e4",
+      "name": "Jaket"
+    },
+    {
+      "id": "8ce3",
+      "name": "Watch"
+    }
+  ],
+  "brand": [
+    {
+      "id": "545a",
+      "name": "Zara",
+      "pic": "ZARA.png"
+    },
+    {
+      "id": "794f",
+      "name": "Nike",
+      "pic": "Nike.jpg"
+    },
+    {
+      "id": "6a9e",
+      "name": "Puma",
+      "pic": "puma.jpg"
+    },
+    {
+      "id": "81e4",
+      "name": "Kappa",
+      "pic": "Kappa.jpg"
+    },
+    {
+      "id": "0321",
+      "name": "Adidas",
+      "pic": "Adidas.jpg"
+    },
+    {
+      "id": "5cfe",
+      "name": "Reebook",
+      "pic": "Reebok.jpg"
+    },
+    {
+      "id": "2ac4",
+      "name": "Vans",
+      "pic": "Vans.jpg"
+    },
+    {
+      "id": "27b2",
+      "name": "Gucci",
+      "pic": "Gucci.png"
+    },
+    {
+      "id": "8827",
+      "name": "Fbb",
+      "pic": "Vans.jpg"
+    }
+  ],
+  "product": [
+    {
+      "id": "b654",
+      "name": "Kids  jeans",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Vans",
+      "baseprice": 2000,
+      "discount": 25,
+      "finalprice": 1500,
+      "color": "Multi Color",
+      "size": "28",
+      "stock": true,
+      "discription": "Test",
+      "quantity": 12,
+      "pic": [
+        "product15.jpeg",
+        "product17.jpeg",
+        "product19.jpeg"
+      ]
+    },
+    {
+      "id": "5d4d",
+      "name": "Kids Shirt",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Reebook",
+      "baseprice": 3000,
+      "discount": 30,
+      "finalprice": 2100,
+      "color": "Blue",
+      "size": "23",
+      "stock": true,
+      "discription": "",
+      "quantity": 49,
+      "pic": [
+        "product15.jpeg",
+        "product16.jpeg",
+        "product17.jpeg",
+        "product18.jpeg",
+        "product19.jpeg"
+      ]
+    },
+    {
+      "id": "b263",
+      "name": "Female slim T-shirt",
+      "maincategory": "Female",
+      "subcategory": "T-Shirt",
+      "brand": "Gucci",
+      "baseprice": 345678,
+      "discount": 35,
+      "finalprice": 224690,
+      "color": "Green",
+      "size": "28",
+      "stock": true,
+      "discription": "<p>Test&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+      "quantity": "23",
+      "pic": [
+        "product13.avif",
+        "product18.jpeg",
+        "product8.jpeg",
+        "product13.avif"
+      ]
+    },
+    {
+      "id": "e96b",
+      "name": "Male slim fit jeans",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Reebook",
+      "baseprice": 4500,
+      "discount": 56,
+      "finalprice": 1980,
+      "color": "Green",
+      "size": "32",
+      "stock": true,
+      "discription": "<p>This <span style=\"font-weight: bold; font-style: italic; text-decoration-line: underline; color: rgb(153, 51, 0);\">product</span> for Testing</p>",
+      "quantity": "12",
+      "pic": [
+        "1711941948760.jpeg",
+        "1711941948990.jpeg",
+        "1711941949008.jpeg",
+        "1711941949027.jpeg"
+      ]
+    },
+    {
+      "id": "338a",
+      "name": "Male slim fit T-shirt",
+      "maincategory": "Male",
+      "subcategory": "T-Shirt",
+      "brand": "Fbb",
+      "baseprice": 2500,
+      "discount": 19,
+      "finalprice": 2025,
+      "color": "Navi Blue",
+      "size": "XL",
+      "stock": true,
+      "discription": "<p>Slim fit T-Shirt</p>",
+      "quantity": 19,
+      "pic": [
+        "1711941949402.jpeg",
+        "1711941949415.jpeg",
+        "1711941949422.jpeg"
+      ]
+    },
+    {
+      "id": "c9e9",
+      "name": "Kids Fashion",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Vans",
+      "baseprice": 2300,
+      "discount": 34,
+      "finalprice": 1518,
+      "color": "red",
+      "size": "28",
+      "stock": true,
+      "discription": "<p>This <span style=\"font-weight: bold; font-style: italic; text-decoration-line: underline; color: rgb(255, 0, 0);\">product</span> for testing</p>",
+      "quantity": "43",
+      "pic": [
+        "1711941949249.jpeg",
+        "1711941949257.jpeg",
+        "1711941949264.jpeg"
+      ]
+    },
+    {
+      "id": "5049",
+      "name": "Female slim-fit shirt",
+      "maincategory": "Female",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "baseprice": 6000,
+      "discount": 53,
+      "finalprice": 2820,
+      "color": "Pink",
+      "size": "36",
+      "stock": true,
+      "discription": "<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\"><p>This <span style=\"font-weight: bold; font-style: italic; text-decoration-line: underline;\">product</span> for testing</p></blockquote>\r\n<p>&nbsp;&nbsp;&nbsp;&nbsp;<br /></p>",
+      "quantity": 59,
+      "pic": [
+        "product7.jpeg",
+        "product8.jpeg",
+        "product10.jpg",
+        "product11.jpg"
+      ]
+    },
+    {
+      "id": "2da6",
+      "name": "Kids Jeans",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "Gucci",
+      "baseprice": 2700,
+      "discount": 43,
+      "finalprice": 1539,
+      "color": "Blue",
+      "size": "26",
+      "stock": "true",
+      "discription": "<p>Testing&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+      "quantity": "50",
+      "pic": [
+        "1711941949200.jpeg",
+        "1711941949208.jpeg",
+        "1711941949220.jpeg",
+        "1711941949230.jpeg",
+        "1711941949257.jpeg",
+        "1711941949272.jpeg"
+      ]
+    },
+    {
+      "id": "33d2",
+      "name": "Female Fit Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Adidas",
+      "baseprice": 9400,
+      "discount": 51,
+      "finalprice": 4606,
+      "color": "Maroon",
+      "size": "36",
+      "stock": true,
+      "discription": "<p>Test&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+      "quantity": "24",
+      "pic": [
+        "product7.jpeg",
+        "product8.jpeg",
+        "product9.jpeg",
+        "product14.jpeg",
+        "product23.jpeg"
+      ]
+    },
+    {
+      "id": "be9b",
+      "name": "Male slim fit Shirt",
+      "maincategory": "Male",
+      "subcategory": "Shirt",
+      "brand": "Gucci",
+      "baseprice": 5000,
+      "discount": 76,
+      "finalprice": 1200,
+      "color": "Light Blue",
+      "size": "30",
+      "stock": true,
+      "discription": "<p>Test</p>",
+      "quantity": "65",
+      "pic": [
+        "1711941949289.jpeg",
+        "1711941949303.jpeg",
+        "1711941949320.jpeg",
+        "1711941949327.jpeg"
+      ]
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "6b12",
+      "name": "Sudhakar Chaudhary",
+      "message": "We are immensely grateful for your continued patronage. Thank you for being a valued customer and for being a part of our success story.",
+      "star": "5",
+      "pic": "1711941949289.jpeg"
+    },
+    {
+      "id": "0b37",
+      "name": "Vishnu kant pandey",
+      "message": "We wanted to take a moment to express our heartfelt appreciation for your trust and loyalty. Thank you for being an amazing customer.",
+      "star": "5",
+      "pic": "1711941949320.jpeg"
+    },
+    {
+      "id": "d278",
+      "name": "AmarJeet",
+      "message": "On behalf of our entire team, we want to extend our deepest thanks for your trust in our products/services. Your satisfaction means the world to us. \nOn behalf of our entire team, we want to extend our deepest thanks for your trust in our products/services. Your satisfaction means the world to us.\nOn behalf of our entire team, we want to extend our deepest thanks for your trust in our products/services. Your satisfaction means the world to us.",
+      "star": "2",
+      "pic": "1711941949388.jpeg"
+    },
+    {
+      "id": "34d4",
+      "name": "Tushar Singh",
+      "message": "Your feedback and suggestions have been invaluable in helping us improve. Thank you for being an engaged customer and for helping us grow.\nWe would like to express our sincerest gratitude for your continued business. Your trust in our brand is truly appreciated.",
+      "star": "3",
+      "pic": "1711941949477.jpeg"
+    }
+  ],
+  "contactus": [
+    {
+      "id": "fe93",
+      "name": "Dolly Kumari",
+      "email": "dolly@gmail.com",
+      "phone": "9576814089",
+      "subject": "This is Dolly.",
+      "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, nisi cupiditate, eos iure cumque doloremque libero maiores ea tenetur perspiciatis nihil minus natus, odit tempora aspernatur molestiae explicabo repellat non.",
+      "active": false,
+      "date": "2024-06-02T18:08:57.049Z"
+    }
+  ],
+  "cart": [],
+  "checkout": [
+    {
+      "id": "9364",
+      "userid": "ec7a",
+      "orderstatus": "Order is Placed",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 10920,
+      "shipping": 0,
+      "total": 10920,
+      "date": "2024-06-02T12:50:28.342Z",
+      "products": [
+        {
+          "id": "5840",
+          "productid": "338a",
+          "userid": "ec7a",
+          "name": "Male slim fit T-shirt",
+          "brand": "Fbb",
+          "color": "Navi Blue",
+          "size": "XL",
+          "price": 2025,
+          "qty": 4,
+          "stockQuantity": "23",
+          "total": 8100,
+          "pic": "1711941949402.jpeg"
+        },
+        {
+          "id": "7960",
+          "productid": "5049",
+          "userid": "ec7a",
+          "name": "Female slim-fit shirt",
+          "brand": "Gucci",
+          "color": "Pink",
+          "size": "36",
+          "price": 2820,
+          "qty": 1,
+          "stockQuantity": "60",
+          "total": 2820,
+          "pic": "product7.jpeg"
+        }
+      ]
+    },
+    {
+      "id": "313d",
+      "userid": "ec7a",
+      "orderstatus": "Out for Delivery",
+      "paymentstatus": "Pending",
+      "paymentmode": "COD",
+      "subtotal": 2100,
+      "shipping": 0,
+      "total": 2100,
+      "date": "2024-06-02T12:52:12.241Z",
+      "products": [
+        {
+          "id": "88ba",
+          "productid": "5d4d",
+          "userid": "ec7a",
+          "name": "Kids Shirt",
+          "brand": "Reebook",
+          "color": "Blue",
+          "size": "23",
+          "price": 2100,
+          "qty": 1,
+          "stockQuantity": 50,
+          "total": 2100,
+          "pic": "product15.jpeg"
+        }
+      ]
+    }
+  ],
+  "newsletter": [
+    {
+      "id": "27bb",
+      "email": "arnavr285@gmail.com"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "9bb6",
+      "productid": "c9e9",
+      "userid": "ec7a",
+      "name": "Kids Fashion",
+      "brand": "Vans",
+      "color": "red",
+      "size": "28",
+      "price": 1518,
+      "pic": "1711941949249.jpeg"
+    }
+  ]
+}
